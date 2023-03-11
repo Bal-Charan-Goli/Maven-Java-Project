@@ -132,12 +132,12 @@
     <snapshotRepository>
       <id>nexusRepo</id>
       <name>my-snapshot-repository</name>
-      <url>http://54.221.59.245:8081/repository/my-snapshot-repository/</url>
+      <url>http://54.159.25.209:8081/repository/my-snapshot-repository/</url>
     </snapshotRepository>
     <repository>
       <id>nexusRepot</id>
       <name>my-repository</name>
-      <url>http://54.221.59.245:8081/repository/my-repository/</url>
+      <url>http://54.159.25.209:8081/repository/my-repository/</url>
     </repository>
   </distributionManagement>
 </project>
